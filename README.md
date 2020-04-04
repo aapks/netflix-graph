@@ -34,7 +34,8 @@ Since the blog article was published, a number of improvements have been made:
 * The library will automatically switch from the default encoding to bit set encoding if it is more memory efficient.
 * Interfaces have been added to efficiently map Objects to ordinals.
 
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 Documentation
 -------------
 Detailed documentation of NetflixGraph's features and usage can be found on the [wiki](https://github.com/Netflix/netflix-graph/wiki).
